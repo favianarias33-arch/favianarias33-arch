@@ -101,20 +101,18 @@ Cybersecurity Basics    █████░░░░░░
 
 ---
 
-## Estadísticas de GitHub
-
 ## 📊 Estadísticas de GitHub
 
 <div align="center">
   <img 
-    width="48%" 
-    src="https://github-readme-stats.vercel.app/api?username=favianarias33-arch&show_icons=true&theme=radium&hide_border=true" 
+    height="165"
+    src="https://github-readme-stats.vercel.app/api?username=favianarias33-arch&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" 
     alt="Estadísticas de GitHub" 
   />
 
   <img 
-    width="48%" 
-    src="https://streak-stats.demolab.com?user=favianarias33-arch&theme=radium&hide_border=true" 
+    height="165"
+    src="https://streak-stats.demolab.com?user=favianarias33-arch&theme=tokyonight&hide_border=true" 
     alt="Racha de GitHub" 
   />
 </div>
@@ -123,12 +121,11 @@ Cybersecurity Basics    █████░░░░░░
 
 <div align="center">
   <img 
-    width="48%" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=favianarias33-arch&layout=compact&theme=radium&hide_border=true" 
+    height="165"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=favianarias33-arch&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" 
     alt="Lenguajes más usados" 
   />
 </div>
-
 ---
 
 ## Mentalidad
