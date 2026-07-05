@@ -1,83 +1,83 @@
-# ¡Hola! Soy Favian Arias 👋
+# Hi, I'm Favian Arias 👋
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27F700&center=true&vCenter=true&width=600&lines=Estudiante+de+Ingeniería+en+Sistemas;Desarrollador+Backend+en+formación;Construyendo+software+con+propósito;IA%2C+Hardware+y+Arquitectura+de+Software" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=27F700&center=true&vCenter=true&width=650&lines=Computer+Systems+Engineering+Student;Backend+Developer+in+Progress;Building+Software+with+Purpose;AI%2C+Hardware+and+Software+Architecture" alt="Typing SVG" />
   </a>
 </div>
 
 ---
 
-## Sobre mí
+## About Me
 
-Soy estudiante de **Ingeniería en Sistemas Computacionales**, enfocado en el desarrollo de software, arquitectura backend, bases de datos, inteligencia artificial e integración con hardware.
+I'm a **Computer Systems Engineering student** focused on software development, backend architecture, databases, artificial intelligence, and hardware integration.
 
-Me gusta construir proyectos que no se queden solo en código, sino que resuelvan problemas reales. He trabajado en sistemas con **Spring Boot, PostgreSQL, Docker, APIs REST, seguridad con JWT, automatización, análisis de datos e integración con dispositivos físicos**.
+I enjoy building projects that go beyond code and aim to solve real-world problems. I have worked with **Spring Boot, PostgreSQL, Docker, REST APIs, JWT security, automation, data analysis, and physical device integration**.
 
-Actualmente sigo fortaleciendo mis habilidades como desarrollador, con interés especial en:
+I'm currently strengthening my skills in:
 
-* Backend y arquitectura de software
-* APIs REST y sistemas escalables
-* Bases de datos relacionales
-* Inteligencia artificial aplicada
-* Seguridad de software
-* IoT, Arduino y ESP32
-* Proyectos con impacto ambiental y social
+- Backend development
+- REST APIs and scalable systems
+- Relational databases
+- Artificial intelligence applied to real projects
+- Software security
+- IoT, Arduino, and ESP32
+- Environmental and social impact projects
 
 ---
 
-## Proyectos destacados
+## Featured Projects
 
 ### EcoScan
 
-Sistema enfocado en el análisis, clasificación y gestión de reportes ambientales.
+Environmental reporting and analysis system focused on classifying, validating, and managing environmental incidents.
 
-Tecnologías y conceptos aplicados:
+Main technologies and concepts:
 
-* Java + Spring Boot
-* PostgreSQL + PostGIS
-* Seguridad con JWT
-* Arquitectura por capas
-* APIs REST
-* Motor de decisiones determinístico
-* Validación geográfica
-* Clasificación de alertas y reportes
+- Java + Spring Boot
+- PostgreSQL + PostGIS
+- JWT authentication
+- Layered architecture
+- REST APIs
+- Deterministic decision engine
+- Geographic validation
+- Alert and report classification
 
 ---
 
 ### WeightSort
 
-Sistema de clasificación automatizada mediante banda transportadora, sensores y control de actuadores.
+Automated classification system using a conveyor belt, sensors, and actuator control.
 
-Tecnologías y conceptos aplicados:
+Main technologies and concepts:
 
-* ESP32
-* Arduino
-* Sensores IR y ultrasónicos
-* Servomotores
-* Backend conectado a base de datos
-* Dashboard web
-* Registro de ciclos, eventos y clasificaciones
+- ESP32
+- Arduino
+- IR and ultrasonic sensors
+- Servomotors
+- Backend connected to a database
+- Web dashboard
+- Cycle, event, and classification records
 
 ---
 
 ### FinPulse
 
-Proyecto desarrollado en entorno Salesforce, orientado a procesos financieros y automatización inteligente.
+Salesforce-based project focused on financial process automation and intelligent decision support.
 
-Tecnologías y conceptos aplicados:
+Main technologies and concepts:
 
-* Salesforce
-* Agentforce
-* Flows
-* Objetos personalizados
-* Automatización de procesos
-* Consola de ventas
-* Gestión de oportunidades y eventos
+- Salesforce
+- Agentforce
+- Flows
+- Custom objects
+- Process automation
+- Sales console
+- Opportunity and event management
 
 ---
 
-## Tecnologías y herramientas
+## Technologies and Tools
 
 <div align="center">
   <a href="https://skillicons.dev">
@@ -87,7 +87,7 @@ Tecnologías y conceptos aplicados:
 
 ---
 
-## Áreas que estoy aprendiendo y fortaleciendo
+## Current Learning Focus
 
 ```txt
 Backend Development     █████████░░
