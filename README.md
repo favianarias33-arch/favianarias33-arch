@@ -103,16 +103,30 @@ Cybersecurity Basics    █████░░░░░░
 
 ## Estadísticas de GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=favianarias33-arch&show_icons=true&theme=radium&hide_border=true" alt="Estadísticas de GitHub" />
-</div>
+## 📊 Estadísticas de GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=favianarias33-arch&theme=radium&hide_border=true" alt="Racha de GitHub" />
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api?username=favianarias33-arch&show_icons=true&theme=radium&hide_border=true" 
+    alt="Estadísticas de GitHub" 
+  />
+
+  <img 
+    width="48%" 
+    src="https://streak-stats.demolab.com?user=favianarias33-arch&theme=radium&hide_border=true" 
+    alt="Racha de GitHub" 
+  />
 </div>
 
+<br/>
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=favianarias33-arch&layout=compact&theme=radium&hide_border=true" alt="Lenguajes más usados" />
+  <img 
+    width="48%" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=favianarias33-arch&layout=compact&theme=radium&hide_border=true" 
+    alt="Lenguajes más usados" 
+  />
 </div>
 
 ---
