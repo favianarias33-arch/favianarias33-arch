@@ -130,9 +130,9 @@ Cybersecurity Basics    █████░░░░░░
 
 ## Mentalidad
 
-> Aprender, construir, fallar, corregir y volver más fuerte.
+> Learn, build, fail, correct and come back stronger. 
 
-Creo en mejorar todos los días, incluso cuando el proceso pesa. La ingeniería no solo se trata de escribir código, sino de entender problemas, diseñar soluciones y tener la disciplina para llevarlas hasta el final.
+I believe in improving, every mistake made makes me improve.
 
 ---
 
