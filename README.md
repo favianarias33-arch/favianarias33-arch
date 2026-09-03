@@ -142,4 +142,7 @@ I believe in improving, every mistake made makes me improve.
   <a href="https://github.com/favianarias33">
     <img src="https://img.shields.io/badge/GitHub-favianarias33-181717?style=for-the-badge&logo=github" />
   </a>
+  <a href="mailto:favianarias33@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-favianarias33%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </div>
